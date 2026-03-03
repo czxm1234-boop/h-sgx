@@ -4,7 +4,7 @@
  */
 
 const baseConfig = {
-	baseUrl: 'http://31.192.239.105:801', // 接口基础路径
+	baseUrl: 'https://api.btysz.vip', // 接口基础路径
 	// baseUrl:'http://127.0.0.1',
 	timeout: 10000, // 超时时间（毫秒）
 	headers: {
@@ -194,3 +194,4 @@ window.AjaxUtil = (function($) {
 // 	console.log(res.data.app_img.replaceAll('/upload/', baseConfig.baseUrl + '/upload/'))
 
 // })
+
