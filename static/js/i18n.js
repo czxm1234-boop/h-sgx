@@ -4,8 +4,8 @@ const I18n = {
   defaultLang:'zh-FT',
   langlist:[
   		{name:'简体中文',value:'zh-CN'},
-  		{name:'English',value:'en-US'},
-      {name:'繁体中文',value:'zh-FT'},
+  	//	{name:'English',value:'en-US'},
+    //  {name:'繁体中文',value:'zh-FT'},
   ],
   // 初始化
   init: function(lang) {
